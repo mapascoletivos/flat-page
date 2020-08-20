@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Mapas Coletivos
+description: Plataforma para criação de narrativas colaborativas. Ativa entre 2012 e 2020, criada pela Associação O Eco com apoio do Instituto Claro e parceria da Rede Nossa São Paulo.
+show_downloads: false
+google_analytics: UA-28984711-1
+logo: /assets/img/mapas-coletivos_logo.svg
