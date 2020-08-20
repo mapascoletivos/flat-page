@@ -7,9 +7,6 @@ logo: /assets/img/mapas-coletivos_logo.svg
 lang: pt_BR
 twitter:
   username: mapascoletivos
-facebook:
-  publisher: 258571760847428
-image:
-  path: /assets/img/mapas-coletivos_logo_social.png
-  height: 1200
-  width: 1200
+image: /assets/img/mapas-coletivos_logo_social.png
+seo:
+  type: Organization
